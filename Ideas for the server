@@ -10,3 +10,4 @@ Also looks like django might be use at this time really unsure of this fact
 
 We have a way of putting the amera on to a web site and this now just needs a server that can put out to be able to access the website from outside device.
 options for the servers:
+deciding to go with AWS to host the website
