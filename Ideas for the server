@@ -1,3 +1,6 @@
 Here is a list of the servers that are the options that we can use for livestreaming:
 Using the raspberry pi to host the server along with the camera and sensor(https://randomnerdtutorials.com/video-streaming-with-raspberry-pi-camera/)
 trying the django software to run the web server to be able to keep the livestream up(https://www.djangoproject.com/start/overview/)
+
+We have a way of putting the amera on to a web site and this now just needs a server that can put out to be able to access the website from outside device.
+options for the servers:
